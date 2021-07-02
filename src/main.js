@@ -3,7 +3,7 @@
 
 import DefaultLayout from '~/layouts/Default.vue'
 
-import './assets/css/dist/tailwind.css'
+import './assets/css/compile/tailwind.css'
 
 export default function (Vue, { router, head, isClient }) {
   // Set default layout as a global component
